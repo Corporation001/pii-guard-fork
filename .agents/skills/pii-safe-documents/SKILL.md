@@ -1,6 +1,6 @@
 ---
 name: pii-safe-documents
-description: "Processes sensitive local documents through PII Guard and a local Ollama model into a reversible redacted copy without allowing the non-open-source main agent to read the original, restoration map, or restored contents. Use whenever the user asks to de-identify or redact a private file, create a reversible sanitized document, prepare sensitive material for AI, or edit a document while keeping raw personal data local."
+description: "Processes sensitive local documents through PII Guard and a local Ollama model into a reversible redacted copy, without letting the main agent read the original or restored contents."
 ---
 
 # PII Safe Documents
